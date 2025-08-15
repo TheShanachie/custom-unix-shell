@@ -1,11 +1,3 @@
----
-title: Simple Unix Shell from Scratch
-geometry: margin=1in
-output: pdf_document
-fontsize: 10pt
----
-
-
 # Unix Shell
 
 This project contains a simple homemade Unix shell. The shell is the heart of
