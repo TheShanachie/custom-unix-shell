@@ -1,6 +1,6 @@
 # Unix Shell
 
-This project contains a simple homemade Unix shell. The shell is the heart of
+This project contains a simple homemade Unix shell. This project provides simple implementation of basic bash commands and full usage of the Linux (Posix) Environment. The shell is the heart of
 the command-line interface, and thus is central to the Unix/C programming
 environment.  Knowing how the shell itself is built is crucial to built shell 
 proficiency. This shell is a modified version of the Unix Shell project from
